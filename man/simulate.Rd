@@ -24,8 +24,6 @@ simulate(theta, T)
 	The second row corresponds to jumps made, 0 for no jump and 1 for a jump.
 }
 
-\section{Warning }{Needs Rlab for function rbern. Won't work without that.}
-
 \examples{
 	## Data simulation
 	theta <- c(0.2, 0.1, 0.05, -0.5, 0.7)

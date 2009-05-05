@@ -18,8 +18,8 @@
 \tabular{ll}{
 Package: \tab EM-JumpDiffusion\cr
 Type: \tab Package\cr
-Version: \tab 1.3.4\cr
-Date: \tab 2009-02-13\cr
+Version: \tab 1.4\cr
+Date: \tab 2009-05-05\cr
 License: \tab GPL (version 2 or later)
 }
 	Use \code{\link{simulate}} to create log-returns or use real data.
@@ -47,7 +47,7 @@ License: \tab GPL (version 2 or later)
 
 	## Data simulation
 	theta <- c(0.2, 0.1, 0.05, -0.5, 0.7)
-	X <- simulate(theta, 30) # simulates 30 log-returns
+	X <- simulate(theta, 30) # simulates 30 log-returns and uses function rbern
 	plot(X[,1],type="h",main="log returns",xlab="time",ylab="value")
 
 	start<-c(0.3, -0.1, 0.1, 0.3, 1) # starting vector
