@@ -18,7 +18,7 @@
 \tabular{ll}{
 Package: \tab EM-JumpDiffusion\cr
 Type: \tab Package\cr
-Version: \tab 1.4\cr
+Version: \tab 1.4.1\cr
 Date: \tab 2009-05-05\cr
 License: \tab GPL (version 2 or later)
 }

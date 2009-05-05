@@ -27,6 +27,7 @@ for(i in 0:1)
 expval <- expval+ (phisum[i+1,t]*(-0.5*log((sigma^2)+i*(sigmad^2))-((X[t]-i*mud-mu+0.5*(sigma^2))^2 )/(2*((sigma^2)+i*(sigmad^2)))))
 }
 }
+expval
 }
 
 # memory allocation for matrices and vectors

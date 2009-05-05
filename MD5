@@ -1,0 +1,13 @@
+7ce64c0abbd58364d9d3cb769633e752 *DESCRIPTION
+9fdfeb11f7ddba6f3aab9aaa6b1ac5dd *NAMESPACE
+4db9e1ae89d9aee74adcb26555b5e1d5 *R/EMjump.R
+7ef65aeb2b0de1e0a0c95e38fc02d6b6 *R/rbern.R
+8396da50f1fac38d780d28335c5821eb *R/scores.R
+00c1c2f0400de78ce9c1a5ffacdd2f46 *R/simulate.R
+23f0014549531fb1ef3e6a0cc87de5b3 *R/viterbi.R
+01469c3dbe626c53fac237ebbc445518 *man/EMJumpDiffusion-package.Rd
+df9950f90380b2a08812703c8bbcc98b *man/EMjump.Rd
+bc28c075bfc1387acda1534d0cc5433f *man/rbern.Rd
+faaff360ccded6688cec0e7d788a3f6b *man/scores.Rd
+b2bb15dd036d570a1ce619e54d7e2318 *man/simulate.Rd
+44f66521404e08bb6f6b6be0918cb7aa *man/viterbi.Rd
